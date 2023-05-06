@@ -1,0 +1,11 @@
+first create database name: ytoovumw_bscs3a
+then import ordering_db.sql
+
+or 
+
+create database name: ytoovumw_bscs3a 
+then just login type:
+username: "admin"
+password: "password"
+
+then database table will auto create
